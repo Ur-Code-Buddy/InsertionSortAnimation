@@ -38,10 +38,10 @@ def insertion_sort(v):
             turtle.clear()
             draw_bars(v)
             screen.update()
-            time.sleep(delay_time)
             j -= 1
+            time.sleep(delay_time)
 
-v = [random.randint(1, 500) for _ in range(30)]
+v = [random.randint(1, 500) for i in range(30)]
 
 t1 = time.time()
 insertion_sort(v)
