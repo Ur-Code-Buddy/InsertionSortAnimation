@@ -1,3 +1,3 @@
 # InsertionSortAnimation
-Insertion Sort animation with Turtle library
+Using the Turtle Library to make a InsertionSort Animation
 
